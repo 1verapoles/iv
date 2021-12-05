@@ -1,0 +1,12 @@
+[
+{
+  "id": 1,
+  "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo nam sunt deserunt corporis hic! Adipisci iusto quam corrupti voluptatum assumenda!",
+  "tags": ["amet", "dolor", "deserunt"] 
+},
+{
+  "id": 2,
+  "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium quaerat itaque ipsam vel quod sit nobis earum? Voluptatem accusamus dolore assumenda voluptas fugiat dolores, veritatis laudantium sunt nam ut quaerat saepe, quisquam non libero, id cupiditate facere provident debitis consequuntur praesentium quae. Porro impedit optio eius, dignissimos odio adipisci similique?",
+  "tags": ["ipsam", "quaerat"] 
+}
+]
